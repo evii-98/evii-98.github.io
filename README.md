@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Evelin's Website
 
 You can use the [editor on GitHub](https://github.com/evii-98/evii-98.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
