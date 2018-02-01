@@ -5,11 +5,9 @@ body {
 nav{
   font-family: lobster;
   font-size: 50px;
-background-color: blue;
+background-color: pink;
 border-top-style: solid;
 border-left-color: black;
-margi
-
 }
 .home-background {
   background-color: gray;
@@ -17,9 +15,23 @@ margi
 #button {
 background-color: yellow;
 border-radius: 50%;
+width: 30px;
+height: 30px;
 
 }
 .input-box {
   border-radius: 10%;
   border-color: gray;
+
+}
+#home-images {
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+  position: sticky;
+  text-align: center;
+
+}
+footer{
+  background-color: lightgray ;
 }
