@@ -1,0 +1,25 @@
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+body {
+  background-color: white;
+}
+nav{
+  font-family: lobster;
+  font-size: 50px;
+background-color: blue;
+border-top-style: solid;
+border-left-color: black;
+margi
+
+}
+.home-background {
+  background-color: gray;
+}
+#button {
+background-color: yellow;
+border-radius: 50%;
+
+}
+.input-box {
+  border-radius: 10%;
+  border-color: gray;
+}
