@@ -3,11 +3,13 @@ body {
   background-color: white;
 }
 nav{
-  font-family: lobster;
-  font-size: 50px;
+  align-content: 
+  font-size-adjust: auto;
+  font-family: monospace;
 background-color: pink;
 border-top-style: solid;
 border-left-color: black;
+font-size: 25px;
 }
 .home-background {
   background-color: gray;
@@ -20,7 +22,6 @@ height: 30px;
 
 }
 .input-box {
-  border-radius: 10%;
   border-color: gray;
 
 }
