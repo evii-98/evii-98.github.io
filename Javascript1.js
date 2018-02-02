@@ -1,7 +1,17 @@
-/*var guessName = prompt ('Hello, and you are?');
-alert ("hello " + guessName);
-*/
+/*Variables
+function openingWebPrompt() {
+  var guessName = prompt ('Hello, and you are?');
+  alert ("hello " + guessName);
+}
+/*var guessAdress= "";
+var guessBody="";
+var guessSubject="";
 
-// Home
-strokeWeight (5);
-eclipse (400, 200, 200, 200); //
+document.write (
+  Please fill out
+);
+*/
+function changingImages() {
+var homeImages= document.getElementById('img1').id;
+}
+<button onlick ="changingImages()"> next picture </button>

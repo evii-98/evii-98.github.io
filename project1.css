@@ -1,4 +1,4 @@
-<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
 body {
   background-color: white;
 }
@@ -24,13 +24,11 @@ height: 30px;
   border-color: gray;
 
 }
-#home-images {
+.home-images {
   border-radius: 50%;
+  border-color: black;
   height: 300px;
   width: 300px;
-  position: sticky;
-  text-align: center;
-
 }
 footer{
   background-color: lightgray ;
