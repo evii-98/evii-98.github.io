@@ -1,0 +1,59 @@
+  /*Home Page */
+html{
+  margin: 40px;
+}
+body{
+background-color: black;
+}
+#home_background{
+  background-image: url('/Users/evelin/Desktop/Devlopers Portfolio/Personal_Portfolio/Makeup Pamphlet/home_photo.jpg.png');
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 900px;
+}
+#Header, footer{
+  text-align: center;
+  font-size: 60px;
+  color: white;
+  border-style: double;
+  border-color: white;
+
+}
+.home_name{
+  color: #b38600;
+  font-size: 90px;
+  border-style: double;
+  border-color: #b38600;
+  text-align: center;
+
+ }
+ a{
+   text-decoration: none;
+   color: white;
+ }
+
+.nav{
+
+  font-size: 20px;
+  text-align: center;
+}
+
+  /*About Me Page*/
+
+  /* Looks Page */
+
+  #containers{
+    width: 100%;
+    border-bottom: 10px solid white;
+    color: white;
+    font-size: 40px;
+    padding: 50px;
+    float: center;
+  }
+
+text {
+  font-size: 30px;
+color: white;
+}
