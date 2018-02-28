@@ -70,8 +70,9 @@ text {
   color: white;
 }
 .images{
-  width: auto;
-   height: auto;
-   padding: 40px;
+  width: 20%;
+  height: 20%;
+  padding: 40px;
    margin: 20px,20px,20px,20px;
+  
 }
