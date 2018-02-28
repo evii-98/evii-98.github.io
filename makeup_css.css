@@ -1,18 +1,19 @@
-  /*Home Page */
+r  /*Home Page */
 html{
   margin: 40px;
 }
 body{
 background-color: black;
 }
+/* Body Background */
 #home_background{
   background-image: url('home_photo.jpg.png');
   background-color: black;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top;
-  height: 900px;
-  width: 900px
+  background-position: center;
+  height: 100%;
+  width: 100%;
 }
 #Header{
   text-align: center;
