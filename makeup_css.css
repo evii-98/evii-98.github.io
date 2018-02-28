@@ -9,7 +9,7 @@ background-color: black;
   background-image: url('home_photo.jpg.png');
   background-color: black;
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
   background-position: top;
   height: 900px;
 }
