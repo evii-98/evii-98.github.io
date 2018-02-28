@@ -68,7 +68,7 @@ text {
   color: white;
 }
 .images{
-  width: 70%;
-   height: 80%;
+  width: auto;
+   height: auto%;
    padding: 40px;
 }
