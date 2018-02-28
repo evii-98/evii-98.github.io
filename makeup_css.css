@@ -56,7 +56,7 @@ footer {
 
   #containers{
     width: 100%;
-    border-bottom: solid white;
+    border-bottom: 5px solid white;
     color: white;
     font-size: 40px;
     text-align: center;
