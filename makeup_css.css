@@ -6,15 +6,14 @@ body{
 background-color: black;
 }
 #home_background{
-  background-image: url('https://i.pinimg.com/564x/91/cd/52/91cd528a171d975fb74c6c3edd106cd5.jpg');
+  background-image: url('/Users/evelin/Desktop/Devlopers Portfolio/Personal_Portfolio/Makeup Pamphlet/home_photo.jpg.png');
   background-color: black;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 100%;
-  width: 100%;
+  height: 900px;
 }
-#Header, footer{
+#Header{
   text-align: center;
   font-size: 60px;
   color: white;
@@ -28,8 +27,6 @@ background-color: black;
   border-style: double;
   border-color: #b38600;
   text-align: center;
-    height: 100%;
-  width: 100%;
 
  }
  a{
@@ -42,7 +39,15 @@ background-color: black;
   font-size: 20px;
   text-align: center;
 }
+footer {
+    text-align: center;
+    font-size: 10px;
+    color: white;
+    border-style: double;
+    border-color: white;
 
+
+}
   /*About Me Page*/
 
   /* Looks Page */
@@ -52,11 +57,18 @@ background-color: black;
     border-bottom: 10px solid white;
     color: white;
     font-size: 40px;
+    text-align: center;
     padding: 50px;
     float: center;
   }
 
 text {
   font-size: 30px;
-color: white;
+  text-align: right;
+  color: white;
+}
+.images{
+  width: 70%;
+   height: 80%;
+   padding: 40px;
 }
