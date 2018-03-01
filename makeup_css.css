@@ -63,6 +63,7 @@ footer {
     text-align: center;
     padding: 50px;
     float: center;
+    margin: 50%,0,0,50%;
   }
 
 text {
@@ -71,8 +72,8 @@ text {
   color: white;
 }
 .images{
-  width: 35%;
-  height: 35%;
-  margin: 8px,8px,8px,0px;
-  padding: 5px ;
+  width: 30%;
+  height: 30%;
+  margin: 10px,10px,10px,0px;
+
 }
