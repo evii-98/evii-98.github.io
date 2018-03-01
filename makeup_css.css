@@ -73,6 +73,6 @@ text {
 .images{
   width: 35%;
   height: 35%;
-  margin: 8px,8px,8px,8px;
+  margin: 8px,8px,8px,0px;
   padding: 5px ;
 }
