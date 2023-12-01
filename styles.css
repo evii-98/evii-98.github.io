@@ -16,10 +16,21 @@ html {
   padding: 30px;
   text-align: center;
 }
-.nav-buttons a:hover{
-  background-color:  #ecc6d9;
+button.nav1 {
+  background-color: aqua;
+  border-width:medium;
+  border-radius: 10px;
 }
-
+button.nav2 {
+  background-color:  #e6e6ff;
+  border-width:medium;
+  border-radius: 10px;
+}
+button.nav3 {
+  background-color:  #e6e6ff;
+  border-width:medium;
+  border-radius: 10px;
+}
 .nav-buttons {
   text-align: center;
 }
