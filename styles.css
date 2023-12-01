@@ -11,8 +11,11 @@ html {
   background:  #9999ff;
 
 }
-nav {
-
+/* Header*/
+.name-main-header {
+  padding: 30px;
+  text-align: center;
+  background: white;
 }
 nav > button {
   background-color: #e6ccb3;
