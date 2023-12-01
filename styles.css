@@ -16,6 +16,10 @@ html {
   padding: 30px;
   text-align: center;
 }
+.nav-buttons a:hover{
+  background-color:  #ecc6d9;
+}
+
 .nav-buttons {
   text-align: center;
 }
