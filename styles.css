@@ -36,6 +36,10 @@ button.nav3 {
 .nav-buttons {
   text-align: center;
 }
+p{
+  text-align: center;
+}
+
 nav > button {
   background-color: #e6ccb3;
   border: none;
