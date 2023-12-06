@@ -57,8 +57,9 @@ img {
       text-align: center;
   }
 
-  .webdev-section {
+  #webdev-section {
     text-wrap: nowrap;
     background-color: #9999ff;
     font-size: 1em;
+
 }
