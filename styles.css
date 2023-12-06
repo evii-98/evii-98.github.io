@@ -21,16 +21,19 @@ button.nav1 {
   background-color:  #e6e6ff;
   border-width:medium;
   border-radius: 10px;
+  font-size: .5em;
 }
 button.nav2 {
   background-color:  #e6e6ff;
   border-width:medium;
   border-radius: 10px;
+  font-size: .5em;
 }
 button.nav3 {
   background-color:  #e6e6ff;
   border-width:medium;
   border-radius: 10px;
+  font-size: .5em;
 }
 .nav-buttons {
   text-align: center;
