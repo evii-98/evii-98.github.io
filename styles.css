@@ -55,6 +55,7 @@ img {
 .profilepic {
       text-align: center;
   }
-  p2 {
-
-  }
+  .webdev-section {
+    text-wrap: nowrap;
+    background-color: #9999ff;
+}
