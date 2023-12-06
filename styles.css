@@ -16,7 +16,6 @@ html {
   padding: 30px;
   display: in;
   text-align: center;
-
 }
 button.nav1 {
   background-color:  #e6e6ff;
@@ -39,7 +38,6 @@ button.nav3 {
 .p1{
   text-align: center;
 }
-
 nav > button {
   background-color: #e6ccb3;
   border: none;
@@ -55,7 +53,9 @@ img {
 .profilepic {
       text-align: center;
   }
+
   .webdev-section {
     text-wrap: nowrap;
     background-color: #9999ff;
+    font
 }
