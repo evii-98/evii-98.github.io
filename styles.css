@@ -14,7 +14,7 @@ html {
 /* Header*/
 .name-main-header {
   padding: 30px;
-  text-align: center;
+  display: in;
 }
 button.nav1 {
   background-color:  #e6e6ff;
