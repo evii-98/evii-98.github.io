@@ -32,10 +32,11 @@ button.nav2 {
   font-family: 'courier';
 }
 button.nav3 {
-  background-color:  #e6e6ff;
+  background-color:  ##b59190;
   border-width:medium;
   border-radius: 10px;
   font-size: .5em;
+  font-family: 'courier';
 }
 .nav-buttons {
   text-align: center;
