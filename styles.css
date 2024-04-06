@@ -18,16 +18,18 @@ html {
   text-align: center;
 }
 button.nav1 {
-  background-color:  #e6e6ff;
+   background-color:  ##b59190;
   border-width:medium;
   border-radius: 10px;
   font-size: .5em;
+  font-family: 'courier';
 }
 button.nav2 {
-  background-color:  #e6e6ff;
+  background-color:  ##b59190;
   border-width:medium;
   border-radius: 10px;
   font-size: .5em;
+  font-family: 'courier';
 }
 button.nav3 {
   background-color:  #e6e6ff;
@@ -41,9 +43,8 @@ button.nav3 {
 .p1{
   text-align: center;
 }
-nav > button {
-  background-color: #e6ccb3;
-  border: none;
+.nav-buttons {
+  
 }
 img {
     width: 50%;
