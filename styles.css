@@ -12,6 +12,12 @@ html {
   display: in;
   text-align: center;
 }
+/* Main container keeps content centered */
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
 button.nav1 {
    background-color:  ##b59190;
   border-width:medium;
@@ -52,6 +58,7 @@ img {
 }
     
 /* Mobile adjustments */ @media (max-width: 600px) { header { padding: 25px 10px; } .container { padding: 15px; } }
+
 
 
 
