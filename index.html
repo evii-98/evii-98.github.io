@@ -102,3 +102,107 @@ window.alert("Hi friends, welcome to my online portfolio. My name is Evelin Ramo
 </footer>
 <!-->
 </html>
+    ```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+
+<!-- Makes the site scale correctly on phones -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Evelin | Cybersecurity Portfolio</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f7f7fb;
+    color: #333;
+}
+
+/* Main container keeps content centered */
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Header */
+header {
+    text-align: center;
+    padding: 40px 10px;
+}
+
+h1 {
+    margin-bottom: 5px;
+}
+
+/* Grid for projects */
+.projects {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+/* Project cards */
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+}
+
+.card h3 {
+    margin-top: 0;
+}
+
+/* Mobile adjustments */
+@media (max-width: 600px) {
+    header {
+        padding: 25px 10px;
+    }
+
+    .container {
+        padding: 15px;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<header>
+<h1>Evelin</h1>
+<p>Cybersecurity Student | Networking | System Administration</p>
+</header>
+
+<h2>Projects</h2>
+
+<div class="projects">
+
+<div class="card">
+<h3>Network Configuration Lab</h3>
+<p>Configured static IP addressing and verified connectivity.</p>
+</div>
+
+<div class="card">
+<h3>User & Group Management</h3>
+<p>Created and managed Windows users and security groups.</p>
+</div>
+
+<div class="card">
+<h3>Network Troubleshooting</h3>
+<p>Diagnosed connectivity issues using command-line tools.</p>
+</div>
+
+</div>
+
+</div>
+
+</body>
+</html>
+```
+
