@@ -1,5 +1,6 @@
 html {
   font-size:  3em;
+  scroll-behavior: smooth;
 }
 .main-header {
   background:  #BC8F8F;
@@ -57,6 +58,7 @@ img {
 }
     
 /* Mobile adjustments */ @media (max-width: 600px) { header { padding: 25px 10px; } .container { padding: 15px; } }
+
 
 
 
