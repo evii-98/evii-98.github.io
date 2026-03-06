@@ -19,11 +19,13 @@ html {
     padding: 20px;
 }
 button.nav1 {
-   background-color:  ##b59190;
-  border-width:medium;
-  border-radius: 10px;
-  font-size: .5em;
-  font-family: 'courier';
+  position: sticky; /* sticks at top */
+  top: 0;           /* stick to top */
+  background-color: #ffffff; /* white background */
+  padding: 10px 0;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* subtle shadow */
+  z-index: 1000;    /* stay above content */
 }
 button.nav2 {
   background-color:  ##b59190;
@@ -58,6 +60,7 @@ img {
 }
     
 /* Mobile adjustments */ @media (max-width: 600px) { header { padding: 25px 10px; } .container { padding: 15px; } }
+
 
 
 
