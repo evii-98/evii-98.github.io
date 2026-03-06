@@ -53,11 +53,5 @@ img {
     
 /* Mobile adjustments */ @media (max-width: 600px) { header { padding: 25px 10px; } .container { padding: 15px; } }
 
-  #webdev-section {
-    text-wrap: nowrap;
-    background-color: #BC8F8F;
-    font-size: 1em;
 
-
-}
 
