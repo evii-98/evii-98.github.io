@@ -95,7 +95,7 @@ li {
   .section {
     padding: 40px 15px;
   }
-  ```css
+ 
 /* =========================================
    PROJECTS PAGE
    ========================================= */
@@ -248,6 +248,7 @@ footer {
   .project-card {
     padding: 25px;
   }
+}
 /* project click here button*/
 
 .project-button {
