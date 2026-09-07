@@ -260,6 +260,7 @@ footer {
   border-radius: 10px;
   font-weight: bold;
   transition: 0.3s;
+  text-decoration: none;
 }
 
 .project-button:hover {
