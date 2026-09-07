@@ -95,5 +95,162 @@ li {
   .section {
     padding: 40px 15px;
   }
+  ```css
+/* =========================================
+   PROJECTS PAGE
+   ========================================= */
+
+.projects-header {
+  max-width: 900px;
+  margin: auto;
+  padding: 80px 20px 40px;
+  text-align: center;
+}
+
+.projects-header h1 {
+  margin: 10px 0;
+  font-size: 48px;
+  color: #6b6bff;
+}
+
+.eyebrow {
+  color: #ff6b9d;
+  font-size: 13px;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+
+.projects-intro {
+  max-width: 700px;
+  margin: 20px auto;
+  line-height: 1.7;
+  font-size: 17px;
+}
+
+
+/* Project grid */
+
+.project-gallery {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 25px;
+}
+
+
+/* Individual project card */
+
+.project-card {
+  position: relative;
+  display: block;
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 20px;
+  text-decoration: none;
+  color: #333;
+
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+
+.project-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
+}
+
+
+/* Project number */
+
+.project-number {
+  font-size: 14px;
+  font-weight: bold;
+  color: #ff6b9d;
+  margin-bottom: 25px;
+}
+
+
+/* Category */
+
+.project-category {
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: #6b6bff;
+  margin-bottom: 8px;
+}
+
+
+/* Project title */
+
+.project-card h2 {
+  margin: 0 0 15px;
+  color: #333;
+  font-size: 24px;
+}
+
+
+/* Project description */
+
+.project-card p {
+  line-height: 1.6;
+}
+
+
+/* View project link */
+
+.view-project {
+  display: inline-block;
+  margin-top: 15px;
+  font-weight: bold;
+  color: #6b6bff;
+  transition: color 0.3s ease;
+}
+
+.project-card:hover .view-project {
+  color: #ff6b9d;
+}
+
+
+/* Footer */
+
+footer {
+  text-align: center;
+  padding: 50px 20px;
+  font-size: 14px;
+}
+
+
+/* =========================================
+   MOBILE PROJECTS PAGE
+   ========================================= */
+
+@media (max-width: 700px) {
+
+  .projects-header {
+    padding: 60px 20px 30px;
+  }
+
+  .projects-header h1 {
+    font-size: 36px;
+  }
+
+  .project-gallery {
+    grid-template-columns: 1fr;
+    padding: 15px;
+  }
+
+  .project-card {
+    padding: 25px;
+  }
+
+}
+```
+
 }
 
